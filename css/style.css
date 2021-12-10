@@ -91,7 +91,7 @@ body {
 
 .image1 {
     grid-area: image1;
-    background-image: url('../img/argelia.png');
+    background-image: url('../img/image1.png');
 
     /* El doble del height + el gap  */
     min-height: 46.5rem;
@@ -99,7 +99,7 @@ body {
 
 .image2 {
     grid-area: image2;
-    background-image: url('../img/argel.png');
+    background-image: url('../img/image2.png');
 }
 
 .image3 {
@@ -109,24 +109,24 @@ body {
 
 .image4 {
     grid-area: image4;
-    background-image: url('../img/maricela.png');
+    background-image: url('../img/image4.png');
 }
 
 .image5 {
     grid-area: image5;
-    background-image: url('../img/mary.png');
+    background-image: url('../img/image5.png');
 }
 
 .image6 {
     grid-area: image6;
-    background-image: url('../img/maryyy.png');
+    background-image: url('../img/image6.png');
 
     min-height: 46.5rem;
 }
 
 .image7 {
     grid-area: image7;
-    background-image: url('../img/yonahandy.png');
+    background-image: url('../img/image7.png');
 }
 
 .image8 {
